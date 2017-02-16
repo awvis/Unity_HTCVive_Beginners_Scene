@@ -1,4 +1,4 @@
-# Unity_Vive_BoilerPlate
+# Unity HTC Vive Beginner Scene
 
 Boiler plate for all beginners with HTC Vive and Unity.
 
@@ -14,6 +14,8 @@ Steam VR*
 >Made with Unity 5.5.0f3
 
 >Living Room scene with lightings. Works out of the box.
+
+![scene 2017-02-16 19-11-17-418](https://cloud.githubusercontent.com/assets/6363619/23035112/6555b5a2-f47e-11e6-8750-ba448b4b13c7.jpg)
 
 
 ## **Scripts**

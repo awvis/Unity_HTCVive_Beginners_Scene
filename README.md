@@ -1,4 +1,4 @@
-# Unity HTC Vive Beginner Scene
+# Unity HTC Vive Beginners Scene
 
 Boiler plate for all beginners with HTC Vive and Unity.
 

@@ -21,6 +21,9 @@ Steam VR*
 ## **Scripts**
 >Navigate inside the scene using HTC Vive's controller pad.
 
+## **Demo**
+
+![ezgif com-580f721f54](https://cloud.githubusercontent.com/assets/6363619/23035460/743408d4-f47f-11e6-96fc-42847869876b.gif)
 
 
 
